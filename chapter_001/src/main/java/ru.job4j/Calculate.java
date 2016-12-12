@@ -7,6 +7,10 @@ package ru.job4j;
  * @version 1
 */
 public class Calculate {
+    /**
+    * Constructor, output string to console.
+    * @param args - arg.
+    */
     public static void main(String[] args) {
         System.out.println("Hello world");
     }
